@@ -1,0 +1,11 @@
+Student Number: 82574952
+Student Name: saugat
+--- Marks Entry: 5/21/2025 10:11:47 PM ---
+Mark 1: 50
+Mark 2: 30
+Mark 3: 80
+Mark 4: 60
+Mark 5: 50
+Mark 6: 70
+Average: 56.67
+Result: PASSED
